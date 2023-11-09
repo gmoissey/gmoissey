@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a senior **Computer Engineering** student at the University of Nebraska - Lincoln. I have a very versatile skill base starting from low-level Assembly development for **Embedded Systems** and finishing with the development of **REST API** interfaces with **GO** for **smart contracts** written in **Solidity**.<br><br>🔭 I’m currently working on InvestoBlock. A startup aimed at helping<br>people to invest in real estate property through fractional ownership of NFTs.<br><br>🤝 I’m looking for help with developing robust smart contracts in Solidity.<br><br>🌱 I’m currently learning Solidity, GO, MongoDB, Svelte<br><br>⚡ Fun fact: I'm actually from Kazakhstan
+Hello! I'm a senior **Computer Engineering** student at the University of Nebraska - Lincoln. I have a very versatile skill base starting from low-level Assembly development for **Embedded Systems** and finishing with the development of **REST API** interfaces with **GO** for **smart contracts** written in **Solidity**.<br><br>🤝 I’m looking for help with developing robust smart contracts in Solidity.<br><br>🌱 I’m currently learning Solidity, GO, MongoDB, Svelte<br><br>⚡ Fun fact: I'm actually from Kazakhstan
 
 
 ## 🌐 Socials:
