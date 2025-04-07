@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello! I'm a senior **Computer Engineering** student at the University of Nebraska - Lincoln. I have a very versatile skill base starting from low-level Assembly development for **Embedded Systems** and finishing with the development of **REST API** interfaces with **GO** for **smart contracts** written in **Solidity**.<br><br>🌱 I’m currently learning Solidity, GO, MongoDB, Svelte<br><br>⚡ Fun fact: I'm actually from Kazakhstan
+Hello! I'm a Software Engineer with a strong background in designing and certifying mission-critical systems, currently working at Garmin developing embedded avionics solutions. My expertise spans from embedded systems in C, adhering to DO-178C compliance, to creating scalable cloud-based architectures and REST APIs using Python, Java, and frameworks such as Flask and Spring Boot.
+
+🌱 I'm passionate about exploring technologies that bridge embedded systems and cloud infrastructure, continuously refining my skills in C++, AWS, Azure, and full-stack development.
+
+⚡ Fun fact: I'm originally from Kazakhstan!
 
 
 ## 🌐 Socials:
